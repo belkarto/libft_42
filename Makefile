@@ -35,7 +35,9 @@ SRC			=	ft_atoi.c		ft_bzero.c		\
 				ft_strrev.c		ft_puthex.c		\
 				ft_putuint.c	ft_putformat.c	\
 				ft_printf.c		get_next_line_utils.c \
-				get_next_line.c
+				get_next_line.c ft_lstnew_int.c 	\
+				ft_lstadd_back_int.c	ft_lstdelone_int.c\
+				ft_lstclear_int.c	ft_atol.c\
 
 
 #----------------------------------------------#
